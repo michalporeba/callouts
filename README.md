@@ -1,6 +1,6 @@
-# Callouts 
+# Callouts - a minimalist dispatch system
 
-A minimalist dispatch system for python module lose coupling. 
+A python module implementing lose, class-based coupling. 
 
 Imagine we had an application that checks weather for one place, but using multiple service. The functionality to get weather for a specific service could be implemented in individual modules. 
 
