@@ -7,7 +7,7 @@ def long_description():
 setup(
     name='callouts',
     packages=find_packages(include=['callouts']),
-    version='0.2.2',
+    version='0.2.3',
     author='Michal Poreba',
     license='MIT',
     description='A simple, class based dispatcher',
